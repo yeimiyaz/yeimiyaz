@@ -4,6 +4,9 @@ I am a technology researcher who loves to solve real world problems using innova
 
 I am currently learning about cloud computing and python. Some of my specialties are IT Researcher, Technology Consultant, Application Architect.
 
+I love nature...
+
+[alt text](https://github.com/yeimiyaz/IMG_9655.JPG?raw=true)
 <!--
 **yeimiyaz/yeimiyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
