@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello!!!
+
+I am a technology researcher who loves to solve real world problems using innovative ideas. I have a PhD in systems engineering specifically in the area related to financial analysis of technology investments. I have experience in technology research (6 years), technology consulting and software development (5+ years).   
+
+I am currently learning about cloud computing and python. Some of my specialties are IT Researcher, Technology Consultant, Application Architect.
 
 <!--
 **yeimiyaz/yeimiyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
