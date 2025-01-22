@@ -6,7 +6,7 @@ I am currently learning about cloud computing and python. Some of my specialties
 
 I love nature...
 
-[alt text](https://github.com/yeimiyaz/IMG_9655.JPG?raw=true)
+[alt text](https://github.com/yeimiyaz/yeimiyaz/blob/main/IMG_9655.JPG)
 <!--
 **yeimiyaz/yeimiyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
